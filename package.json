@@ -12,6 +12,7 @@
     "apollo-link-context": "^1.0.20",
     "apollo-link-http": "^1.5.17",
     "jwt-decode": "^2.2.0",
+    "graphql": "^15.3.0",
     "moment": "^2.27.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -41,5 +42,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy":"https://stark-everglades-65954.herokuapp.com/"
+  "proxy": "https://stark-everglades-65954.herokuapp.com/"
 }
